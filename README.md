@@ -1,6 +1,6 @@
 # WADG-PointSeg: Weather-Aware Autopilot Domain Generalization for Point Cloud Semantic Segmentation
 
-![Network Diagram](path/to/your/network_diagram.png)
+![Network Diagram](network.png)
 
 ## Overview
 
@@ -60,9 +60,11 @@ Please download the datasets from the respective links and follow the instructio
 1. **Training**: Modify the configuration files as needed and run the training script using the appropriate configuration file.
 
     ```bash
+    python train.py --config configs/kitti.yaml
+    ```
+    ```bash
     python train.py --config configs/synlidar.yaml
     ```
-
 ## Acknowledgments
 
 We would like to express our gratitude to the following open-source projects that significantly contributed to this work:
