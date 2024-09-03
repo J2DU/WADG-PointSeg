@@ -23,7 +23,7 @@ Follow the steps below to set up the environment and install the necessary depen
 2. Clone the repository and navigate into the project directory:
 
     ```bash
-    git clone https://github.com/yourusername/WADG-PointSeg.git
+    git clone https://github.com/J2DU/WADG-PointSeg.git
     cd WADG-PointSeg
     ```
 
