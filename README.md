@@ -71,3 +71,8 @@ We would like to express our gratitude to the following open-source projects tha
 
 - [SemanticSTF](https://github.com/xiaoaoran/SemanticSTF)
 - [MinkowskiNet](https://github.com/chrischoy/SpatioTemporalSegmentation)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
