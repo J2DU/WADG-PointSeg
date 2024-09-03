@@ -1,4 +1,4 @@
-# Weather-Aware Autopilot Domain Generalization for Point Cloud Semantic Segmentation
+# Weather-Aware Autopilot: Domain Generalization for Point Cloud Semantic Segmentation in Diverse Weather Scenarios
 
 ![Network Diagram](network.png)
 
